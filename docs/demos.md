@@ -1,6 +1,6 @@
 ---
 title: 🎬 Demos
-description: Getting started with PearAI
+description: Getting started with CommitAI
 keywords: [demos, example, install, vscode, jetbrains]
 ---
 
