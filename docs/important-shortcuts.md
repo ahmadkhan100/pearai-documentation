@@ -1,6 +1,6 @@
 ---
 title: ⏩ Important Shortcuts
-description: PearAI is the open-source autopilot for software development
+description: CommitAI is the open-source autopilot for software development
 keywords: [shortcuts, pearai, important shortcuts, pear ai shortcuts]
 ---
 
@@ -19,4 +19,4 @@ keywords: [shortcuts, pearai, important shortcuts, pear ai shortcuts]
 
 These shortcuts can be pressed again to toggle previous state.
 
-All shortcuts can be seen within PearAI itself by going to the command palette `CMD/CTRL+SHIFT+P` → `Keyboard shortcuts`
+All shortcuts can be seen within CommitAI itself by going to the command palette `CMD/CTRL+SHIFT+P` → `Keyboard shortcuts`
