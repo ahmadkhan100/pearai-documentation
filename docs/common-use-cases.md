@@ -1,6 +1,6 @@
 ---
 title: 📋 Common Use Cases
-description: Using LLMs as you code with PearAI
+description: Using LLMs as you code with CommitAI
 keywords: [how to, edit, refactor, boilerplate, context]
 ---
 
