@@ -4,7 +4,7 @@ description: Discover the talented individuals who contribute to this app.
 keywords: [contributors]
 ---
 
-#### This section is for people interested in contributing to PearAI 🍐
+#### This section is for people interested in contributing to CommitAI 🍐
 
 We welcome contributions from the community! Whether you're fixing a bug, improving the documentation, or adding a new feature, we appreciate your help in making PearAI better. There is a lot of context involved and we understand it can be overwhelming when first trying to join the project. Here is a quick summary of key information and how we currently work together:
 
